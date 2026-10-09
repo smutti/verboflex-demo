@@ -33,7 +33,7 @@ Create one product per row, select branch `main` and base language `en`. The opt
 | New keys | Add `tour_hint` to an existing catalog and review the new entry |
 | Native plurals | `files_selected`; incomplete Arabic `uploads_pending` |
 | Exact reuse | Italian `save_profile` suggests `save_changes` at 100% |
-| Fuzzy reuse | Italian `save_profile_changes` suggests `save_account_changes` |
+| Fuzzy reuse | Italian `save_profile_changes` suggests `save_changes` (62% in the verified baseline) |
 | Character limits | Italian `settings_button`: 12 characters, maximum 8 after setup |
 | Glossary | `create_workspace` contains a deliberately forbidden Italian term |
 | Draft / approved / rejected | Edit a string, save, review and inspect history |
