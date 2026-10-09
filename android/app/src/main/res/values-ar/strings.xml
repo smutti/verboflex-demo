@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Empty and omitted translations are intentional. -->
+    <string name="app_name">نورث ستار</string>
+    <string name="welcome_title">مرحبًا بعودتك</string>
+    <string name="dashboard_title">نظرة عامة</string>
+    <string name="settings_button">الإعدادات</string>
+    <string name="save_changes">حفظ التغييرات</string>
+    <string name="save_profile"></string>
+    <string name="save_account_changes">حفظ تغييرات الحساب</string>
+    <string name="save_profile_changes"></string>
+    <string name="cancel_button">إلغاء</string>
+    <string name="confirm_button">تأكيد</string>
+    <string name="search_hint">البحث عن مشاريع</string>
+    <string name="create_workspace">إنشاء مساحة عمل</string>
+    <string name="workspace_ready">مساحة العمل جاهزة</string>
+    <string name="offline_message">أنت غير متصل</string>
+    <string name="retry_button">حاول مرة أخرى</string>
+    <string name="empty_search"></string>
+    <string name="obsolete_notice">لوحة المعلومات القديمة متاحة</string>
+    <string name="help_link">المساعدة والدعم</string>
+    <string name="welcome_user">مرحبًا، %1$s!</string>
+    <string name="download_progress">تم تنزيل %1$d ملفات</string>
+    <plurals name="files_selected">
+        <item quantity="zero">%d ملف</item>
+        <item quantity="one">%d ملف</item>
+        <item quantity="two">%d ملفان</item>
+        <item quantity="few">%d ملفات</item>
+        <item quantity="many">%d ملفًا</item>
+        <item quantity="other">%d ملف</item>
+    </plurals>
+    <plurals name="uploads_pending">
+        <item quantity="one">%d ملف …</item>
+        <item quantity="few">%d ملفات …</item>
+        <item quantity="many">%d ملفًا …</item>
+        <item quantity="other">%d ملف …</item>
+    </plurals>
+</resources>

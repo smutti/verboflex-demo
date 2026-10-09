@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Empty and omitted translations are intentional. -->
+    <string name="app_name">Northstar</string>
+    <string name="welcome_title">Welcome back</string>
+    <string name="dashboard_title">Your overview</string>
+    <string name="settings_button">Settings</string>
+    <string name="save_changes">Save changes</string>
+    <string name="save_profile">Save changes</string>
+    <string name="save_account_changes">Save account changes</string>
+    <string name="save_profile_changes">Save profile changes</string>
+    <string name="cancel_button">Cancel</string>
+    <string name="confirm_button">Confirm</string>
+    <string name="search_hint">Search projects</string>
+    <string name="create_workspace">Create a workspace</string>
+    <string name="workspace_ready">Your workspace is ready</string>
+    <string name="invite_member">Invite a team member</string>
+    <string name="offline_message">You are offline</string>
+    <string name="retry_button">Try again</string>
+    <string name="empty_search">No projects found</string>
+    <string name="new_feature">Explore shared projects</string>
+    <string name="privacy_notice">Your data stays private</string>
+    <string name="obsolete_notice">Legacy dashboard is available</string>
+    <string name="sync_status">All changes are synced</string>
+    <string name="help_link">Help &amp; support</string>
+    <string name="welcome_user">Hello, %1$s!</string>
+    <string name="download_progress">Downloaded %1$d files</string>
+    <plurals name="files_selected">
+        <item quantity="one">%d file</item>
+        <item quantity="other">%d files</item>
+    </plurals>
+    <plurals name="uploads_pending">
+        <item quantity="one">%d file …</item>
+        <item quantity="other">%d files …</item>
+    </plurals>
+</resources>

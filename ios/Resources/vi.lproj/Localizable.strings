@@ -1,0 +1,23 @@
+/* Northstar demo. Empty and omitted translations are intentional. */
+"app_name" = "Northstar";
+"welcome_title" = "Chào mừng trở lại";
+"dashboard_title" = "Tổng quan của bạn";
+"settings_button" = "Cài đặt";
+"save_changes" = "Lưu thay đổi";
+"save_profile" = "Lưu thay đổi";
+"save_account_changes" = "Lưu thay đổi tài khoản";
+"save_profile_changes" = "";
+"cancel_button" = "Hủy";
+"confirm_button" = "Xác nhận";
+"search_hint" = "Tìm dự án";
+"create_workspace" = "Tạo không gian làm việc";
+"workspace_ready" = "Không gian làm việc đã sẵn sàng";
+"invite_member" = "Mời thành viên nhóm";
+"offline_message" = "Bạn đang ngoại tuyến";
+"retry_button" = "Thử lại";
+"empty_search" = "Không tìm thấy dự án";
+"obsolete_notice" = "Bảng điều khiển cũ có sẵn";
+"sync_status" = "Đã đồng bộ mọi thay đổi";
+"help_link" = "Trợ giúp và hỗ trợ";
+"welcome_user" = "Xin chào, %@!";
+"download_progress" = "Đã tải %ld tệp";

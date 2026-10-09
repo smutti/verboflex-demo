@@ -1,0 +1,184 @@
+{
+  "schema_version": 1,
+  "repository": "smutti/verboflex-demo",
+  "branch": "main",
+  "base_language": "en",
+  "languages": [
+    "en",
+    "it",
+    "vi",
+    "ar"
+  ],
+  "products": [
+    {
+      "slug": "android",
+      "name": "Demo · Northstar Android",
+      "root": "android/app/src/main/res",
+      "format": "android_xml"
+    },
+    {
+      "slug": "web",
+      "name": "Demo · Northstar Web",
+      "root": "web/locales",
+      "format": "json"
+    },
+    {
+      "slug": "desktop",
+      "name": "Demo · Northstar Desktop",
+      "root": "desktop/translations",
+      "format": "qt_ts"
+    },
+    {
+      "slug": "ios",
+      "name": "Demo · Northstar iOS",
+      "root": "ios/Resources",
+      "format": "ios_strings"
+    }
+  ],
+  "files": [
+    {
+      "path": "android/app/src/main/res/values/strings.xml",
+      "language": "en",
+      "format": "android_xml",
+      "scalar_count": 24
+    },
+    {
+      "path": "android/app/src/main/res/values-it/strings.xml",
+      "language": "it",
+      "format": "android_xml",
+      "scalar_count": 23
+    },
+    {
+      "path": "android/app/src/main/res/values-vi/strings.xml",
+      "language": "vi",
+      "format": "android_xml",
+      "scalar_count": 22
+    },
+    {
+      "path": "android/app/src/main/res/values-ar/strings.xml",
+      "language": "ar",
+      "format": "android_xml",
+      "scalar_count": 20
+    },
+    {
+      "path": "web/locales/en.json",
+      "language": "en",
+      "format": "json",
+      "scalar_count": 24
+    },
+    {
+      "path": "web/locales/it.json",
+      "language": "it",
+      "format": "json",
+      "scalar_count": 23
+    },
+    {
+      "path": "web/locales/vi.json",
+      "language": "vi",
+      "format": "json",
+      "scalar_count": 22
+    },
+    {
+      "path": "web/locales/ar.json",
+      "language": "ar",
+      "format": "json",
+      "scalar_count": 20
+    },
+    {
+      "path": "desktop/translations/northstar_en.ts",
+      "language": "en",
+      "format": "qt_ts",
+      "scalar_count": 24
+    },
+    {
+      "path": "desktop/translations/northstar_it.ts",
+      "language": "it",
+      "format": "qt_ts",
+      "scalar_count": 23
+    },
+    {
+      "path": "desktop/translations/northstar_vi.ts",
+      "language": "vi",
+      "format": "qt_ts",
+      "scalar_count": 22
+    },
+    {
+      "path": "desktop/translations/northstar_ar.ts",
+      "language": "ar",
+      "format": "qt_ts",
+      "scalar_count": 20
+    },
+    {
+      "path": "ios/Resources/en.lproj/Localizable.strings",
+      "language": "en",
+      "format": "ios_strings",
+      "scalar_count": 24
+    },
+    {
+      "path": "ios/Resources/it.lproj/Localizable.strings",
+      "language": "it",
+      "format": "ios_strings",
+      "scalar_count": 23
+    },
+    {
+      "path": "ios/Resources/vi.lproj/Localizable.strings",
+      "language": "vi",
+      "format": "ios_strings",
+      "scalar_count": 22
+    },
+    {
+      "path": "ios/Resources/ar.lproj/Localizable.strings",
+      "language": "ar",
+      "format": "ios_strings",
+      "scalar_count": 20
+    }
+  ],
+  "missing_keys": {
+    "en": [],
+    "it": [
+      "new_feature"
+    ],
+    "vi": [
+      "new_feature",
+      "privacy_notice"
+    ],
+    "ar": [
+      "invite_member",
+      "new_feature",
+      "privacy_notice",
+      "sync_status"
+    ]
+  },
+  "empty_it_keys": [
+    "save_profile",
+    "save_profile_changes",
+    "empty_search"
+  ],
+  "constraints": [
+    {
+      "key": "settings_button",
+      "language": "it",
+      "max_chars": 8
+    }
+  ],
+  "glossary": [
+    {
+      "source_language": "en",
+      "target_language": "it",
+      "source_term": "workspace",
+      "target_term": "spazio di lavoro",
+      "forbidden": false,
+      "case_sensitive": false,
+      "note": "Use the Italian term for a shared work area."
+    },
+    {
+      "source_language": "en",
+      "target_language": "it",
+      "source_term": "workspace",
+      "target_term": "workspace",
+      "forbidden": true,
+      "case_sensitive": false,
+      "note": "Avoid the untranslated English term."
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+/* Northstar demo. Empty and omitted translations are intentional. */
+"app_name" = "Northstar";
+"welcome_title" = "Bentornato";
+"dashboard_title" = "Il tuo riepilogo";
+"settings_button" = "Impostazioni";
+"save_changes" = "Salva modifiche";
+"save_profile" = "";
+"save_account_changes" = "Salva le modifiche dell’account";
+"save_profile_changes" = "";
+"cancel_button" = "Annulla";
+"confirm_button" = "Conferma";
+"search_hint" = "Cerca progetti";
+"create_workspace" = "Crea un workspace";
+"workspace_ready" = "Il tuo spazio di lavoro è pronto";
+"invite_member" = "Invita un membro del team";
+"offline_message" = "Sei offline";
+"retry_button" = "Riprova";
+"empty_search" = "";
+"privacy_notice" = "I tuoi dati restano privati";
+"obsolete_notice" = "La dashboard precedente è disponibile";
+"sync_status" = "Tutte le modifiche sono sincronizzate";
+"help_link" = "Guida e assistenza";
+"welcome_user" = "Ciao, %@!";
+"download_progress" = "Scaricati %ld file";

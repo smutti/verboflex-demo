@@ -1,0 +1,25 @@
+/* Northstar demo. Empty and omitted translations are intentional. */
+"app_name" = "Northstar";
+"welcome_title" = "Welcome back";
+"dashboard_title" = "Your overview";
+"settings_button" = "Settings";
+"save_changes" = "Save changes";
+"save_profile" = "Save changes";
+"save_account_changes" = "Save account changes";
+"save_profile_changes" = "Save profile changes";
+"cancel_button" = "Cancel";
+"confirm_button" = "Confirm";
+"search_hint" = "Search projects";
+"create_workspace" = "Create a workspace";
+"workspace_ready" = "Your workspace is ready";
+"invite_member" = "Invite a team member";
+"offline_message" = "You are offline";
+"retry_button" = "Try again";
+"empty_search" = "No projects found";
+"new_feature" = "Explore shared projects";
+"privacy_notice" = "Your data stays private";
+"obsolete_notice" = "Legacy dashboard is available";
+"sync_status" = "All changes are synced";
+"help_link" = "Help & support";
+"welcome_user" = "Hello, %@!";
+"download_progress" = "Downloaded %ld files";
